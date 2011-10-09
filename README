@@ -1,0 +1,10 @@
+Dropbox is an awesome tool, regardless being a shared repository for working on collaborative projects or simply backup up some documents.
+
+However in cases where one would like to synchronize large amounts of files across multiple local PCs, it does not make sense to have a 50GB limit. Hard drives are cheap, and it will be cool to enhance dropbox to take care of larger amounts of data. 
+
+In this project we aim to provide multiple PCs running dropbox to locally synchronize large amounts of data.
+
+Milestones:
+- Decap HTTP proxy (done)
+- Decap HTTPS
+- Examine, compare and document protocol stream
