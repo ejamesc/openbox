@@ -1,0 +1,167 @@
+Manifest-Version: 1.0
+MIDlet-Name: Dropbox
+MIDlet-Description: Access your Dropbox from your BlackBerry!
+MIDlet-Jar-URL: dropbox.jar
+MIDlet-Version: 1.0.55
+MIDlet-Jar-Size: 0
+MIDlet-Vendor: Dropbox
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+RIM-COD-Module-Dependencies: net_rim_os,net_rim_bbapi_mailv2,net_rim_bbapi_invoke,net_rim_bbapi_browser,net_rim_bbapi_phone,net_rim_pdap,net_rim_cldc,net_rim_bb_browser_field_api,net_rim_bbapi_menuitem
+RIM-COD-Module-Name: dropbox
+RIM-COD-Creation-Time: 1317385857
+MIDlet-1: Dropbox, theme/dropbox/bb80.png
+RIM-MIDlet-Icon-Count-1: 1
+RIM-MIDlet-Icon-1-1: theme/dropbox/bb80.png
+RIM-MIDlet-Position-1: 1
+RIM-MIDlet-Flags-1: 0
+RIM-COD-URL: dropbox.cod
+RIM-COD-Size: 57368
+RIM-COD-SHA1: 14 30 4b 94 25 88 83 89 6a 95 f9 11 84 f5 1b c8 87 22 f7 9a
+RIM-COD-URL-1: dropbox-1.cod
+RIM-COD-Size-1: 55796
+RIM-COD-SHA1-1: 34 3e d1 33 de 94 4d 8f f7 ed 74 0d b8 60 96 98 77 90 3f d8
+RIM-COD-URL-2: dropbox-2.cod
+RIM-COD-Size-2: 55320
+RIM-COD-SHA1-2: 08 31 bf 9b 4c 69 25 93 27 49 64 30 4b ef 8b f1 16 28 56 7e
+RIM-COD-URL-3: dropbox-3.cod
+RIM-COD-Size-3: 57560
+RIM-COD-SHA1-3: 57 93 41 ec f9 73 53 1a e7 d4 76 c0 5c 54 2a cf 57 1c 1c 9b
+RIM-COD-URL-4: dropbox-4.cod
+RIM-COD-Size-4: 55140
+RIM-COD-SHA1-4: 8e bf 5a a2 4a 71 82 b4 7c 93 bb 99 40 f0 2a f5 a2 91 cd 38
+RIM-COD-URL-5: dropbox-5.cod
+RIM-COD-Size-5: 54900
+RIM-COD-SHA1-5: 26 14 b4 e4 41 c0 f2 ca e2 74 89 f6 d5 d6 6e ba cc d7 a6 45
+RIM-COD-URL-6: dropbox-6.cod
+RIM-COD-Size-6: 56392
+RIM-COD-SHA1-6: 36 59 32 ec 7f 5c de 5e 74 67 d6 e6 3d 9d f0 75 5a 66 e3 f8
+RIM-COD-URL-7: dropbox-7.cod
+RIM-COD-Size-7: 57008
+RIM-COD-SHA1-7: ab d5 bf 50 11 ff 15 ae 2d 67 74 fd ce c1 dc 46 7f e1 50 ea
+RIM-COD-URL-8: dropbox-8.cod
+RIM-COD-Size-8: 61560
+RIM-COD-SHA1-8: 6e cc f9 f2 03 c8 96 70 b2 d4 c5 2a 56 c7 1a 8e 27 d5 ca c0
+RIM-COD-URL-9: dropbox-9.cod
+RIM-COD-Size-9: 56908
+RIM-COD-SHA1-9: 76 bb 5a da 62 5f fe 05 3f f2 af c6 71 2e d4 1f 15 1e a2 e1
+RIM-COD-URL-10: dropbox-10.cod
+RIM-COD-Size-10: 55924
+RIM-COD-SHA1-10: 5f 53 62 09 10 71 f5 74 ee 91 25 27 2f a7 76 17 01 bf 51 bf
+RIM-COD-URL-11: dropbox-11.cod
+RIM-COD-Size-11: 57528
+RIM-COD-SHA1-11: 02 9e 66 a6 95 9b 4a 89 75 b8 88 a9 eb e8 ad 31 a9 36 0b b1
+RIM-COD-URL-12: dropbox-12.cod
+RIM-COD-Size-12: 59016
+RIM-COD-SHA1-12: 3e 76 f6 ae 3b 91 d9 34 fb 01 0d 4c ca a1 6a 59 6c ff 53 f5
+RIM-COD-URL-13: dropbox-13.cod
+RIM-COD-Size-13: 57324
+RIM-COD-SHA1-13: 23 99 73 fc 3a 56 4f 5f 8e c7 88 6a c3 96 e3 6f fa cc b7 ab
+RIM-COD-URL-14: dropbox-14.cod
+RIM-COD-Size-14: 55652
+RIM-COD-SHA1-14: b9 c1 39 58 22 a1 b9 78 27 09 91 dd 82 a1 f2 af d7 15 d7 b4
+RIM-COD-URL-15: dropbox-15.cod
+RIM-COD-Size-15: 55960
+RIM-COD-SHA1-15: 42 ca 4b f4 c0 c9 b6 e6 da 1d 73 d3 3b 2f 92 7b c7 a7 af e6
+RIM-COD-URL-16: dropbox-17.cod
+RIM-COD-Size-16: 57144
+RIM-COD-SHA1-16: ba 91 03 23 77 02 8c fa 7f 0e 0f bd 6c e4 31 cd 8c e4 41 64
+RIM-COD-URL-17: dropbox-16.cod
+RIM-COD-Size-17: 56340
+RIM-COD-SHA1-17: 73 bd 35 dc e8 e5 a1 fb 9e 78 57 4b f0 7f 14 0a b6 e0 a5 44
+RIM-COD-URL-18: dropbox-19.cod
+RIM-COD-Size-18: 55088
+RIM-COD-SHA1-18: b6 e1 57 fd 05 44 70 ec 46 79 01 42 ed d0 88 90 cc 5f 10 57
+RIM-COD-URL-19: dropbox-18.cod
+RIM-COD-Size-19: 56856
+RIM-COD-SHA1-19: 99 d7 bf e2 4a fb 38 80 5a b0 5b 46 10 06 c2 fb e0 ca 8d db
+RIM-COD-URL-20: dropbox-21.cod
+RIM-COD-Size-20: 59044
+RIM-COD-SHA1-20: d9 b9 f3 26 f5 8a 1f d1 30 59 d2 96 c4 02 82 19 5c aa 06 a7
+RIM-COD-URL-21: dropbox-20.cod
+RIM-COD-Size-21: 55852
+RIM-COD-SHA1-21: 0b 18 48 a3 04 e8 cd 45 41 82 8c 25 a4 0c 64 3e 67 36 1c f1
+RIM-COD-URL-22: dropbox-23.cod
+RIM-COD-Size-22: 56296
+RIM-COD-SHA1-22: 3c 96 f4 be 55 e8 d6 13 d4 49 c5 b6 64 09 3f c9 94 45 7b 12
+RIM-COD-URL-23: dropbox-22.cod
+RIM-COD-Size-23: 56344
+RIM-COD-SHA1-23: ac 84 22 a9 26 ec ec f2 26 d6 22 dc 72 fb e7 16 5d 4e 4e 6b
+RIM-COD-URL-24: dropbox-25.cod
+RIM-COD-Size-24: 57392
+RIM-COD-SHA1-24: bb d1 d9 8f 09 45 7b 63 55 bd 10 6c 84 5c bb c1 ad f1 df e7
+RIM-COD-URL-25: dropbox-24.cod
+RIM-COD-Size-25: 60020
+RIM-COD-SHA1-25: 4e cf b7 a4 b6 96 05 f2 18 a3 35 91 7a 5e b3 04 bc af e1 2d
+RIM-COD-URL-26: dropbox-27.cod
+RIM-COD-Size-26: 57756
+RIM-COD-SHA1-26: 64 49 53 ab b2 3d 3d 33 f9 8e d7 05 8d 9c 77 9d b6 34 e3 15
+RIM-COD-URL-27: dropbox-26.cod
+RIM-COD-Size-27: 57080
+RIM-COD-SHA1-27: 4c c8 44 e3 fb 0a 08 02 a7 f8 34 0f 43 d7 c4 1c 3d 21 08 5f
+RIM-COD-URL-28: dropbox-29.cod
+RIM-COD-Size-28: 55372
+RIM-COD-SHA1-28: 12 eb c0 2d f2 ab 2f 44 14 86 17 74 83 db 12 51 0e 70 dc 0c
+RIM-COD-URL-29: dropbox-28.cod
+RIM-COD-Size-29: 59492
+RIM-COD-SHA1-29: b7 c8 93 51 90 74 af 42 dd 46 54 1b 4d b8 e9 22 57 95 20 c7
+RIM-COD-URL-30: dropbox-31.cod
+RIM-COD-Size-30: 56904
+RIM-COD-SHA1-30: 7f 08 6f f0 fb 6f bc 1a 69 38 43 da b7 72 96 ae 1e 1c f6 f6
+RIM-COD-URL-31: dropbox-30.cod
+RIM-COD-Size-31: 56724
+RIM-COD-SHA1-31: a5 56 d5 80 d7 7f 73 69 d8 b0 ff b0 a4 4d dc 56 27 0b d6 2f
+RIM-COD-URL-32: dropbox-34.cod
+RIM-COD-Size-32: 55776
+RIM-COD-SHA1-32: 3f f3 6a 89 da 0c c8 25 da 0b 73 a9 3e 4f c2 0a df 9d a3 01
+RIM-COD-URL-33: dropbox-35.cod
+RIM-COD-Size-33: 57724
+RIM-COD-SHA1-33: 33 a8 e9 67 cb bc 91 2c 33 30 8f de 4a c3 bd de d4 d5 90 5e
+RIM-COD-URL-34: dropbox-32.cod
+RIM-COD-Size-34: 57356
+RIM-COD-SHA1-34: 3f 0f 48 f6 d6 e6 9a aa dd dd 55 86 61 4f 11 92 c3 5b 5b f8
+RIM-COD-URL-35: dropbox-33.cod
+RIM-COD-Size-35: 55808
+RIM-COD-SHA1-35: 66 28 89 de 88 ca e8 cf 63 9f 7f aa 67 ed ac cf b2 58 b5 c7
+RIM-COD-URL-36: dropbox-38.cod
+RIM-COD-Size-36: 56664
+RIM-COD-SHA1-36: c8 4a 44 93 05 a3 93 66 37 24 c4 d3 bb 14 0e d1 b4 88 5e 71
+RIM-COD-URL-37: dropbox-39.cod
+RIM-COD-Size-37: 55708
+RIM-COD-SHA1-37: 76 29 e5 8b f5 4d da 2c dc e4 52 37 38 22 17 cc 78 b1 3b a4
+RIM-COD-URL-38: dropbox-36.cod
+RIM-COD-Size-38: 57408
+RIM-COD-SHA1-38: 98 e7 bd b1 43 be 40 01 98 75 ef 02 41 6e 10 44 60 44 7d 51
+RIM-COD-URL-39: dropbox-37.cod
+RIM-COD-Size-39: 56188
+RIM-COD-SHA1-39: 1e 46 1d 6d 61 b4 75 26 0a c8 75 bc 42 02 bd 62 a2 e1 1c 51
+RIM-COD-URL-40: dropbox-42.cod
+RIM-COD-Size-40: 55744
+RIM-COD-SHA1-40: 32 0e 12 f7 37 95 28 7f b1 a4 0a 2b 16 a7 45 a5 ae d7 7a 61
+RIM-COD-URL-41: dropbox-43.cod
+RIM-COD-Size-41: 57692
+RIM-COD-SHA1-41: d4 fe a3 98 09 59 b7 2c 64 0f 69 a9 cc 87 55 5b bc 2c 83 c5
+RIM-COD-URL-42: dropbox-40.cod
+RIM-COD-Size-42: 56868
+RIM-COD-SHA1-42: ee d0 60 69 3e d4 3a 66 9c ba 8e b7 d7 63 43 43 05 93 b1 df
+RIM-COD-URL-43: dropbox-41.cod
+RIM-COD-Size-43: 56048
+RIM-COD-SHA1-43: 25 8e a1 2d 3e 12 ea 36 75 f8 5c 5b 8e ec 91 2c 23 3b 3b 20
+RIM-COD-URL-44: dropbox-46.cod
+RIM-COD-Size-44: 66156
+RIM-COD-SHA1-44: e0 2f 82 47 d2 a7 57 27 00 6a 03 6b 7f 40 69 bd a5 45 95 f4
+RIM-COD-URL-45: dropbox-47.cod
+RIM-COD-Size-45: 66268
+RIM-COD-SHA1-45: de 81 ed 5d 25 b3 6a e4 39 07 23 e0 1a e0 db 31 53 47 b3 cc
+RIM-COD-URL-46: dropbox-44.cod
+RIM-COD-Size-46: 57304
+RIM-COD-SHA1-46: 2d 40 62 51 f8 ee 12 6e fa 6f 98 3c e1 a1 80 58 92 da f9 b5
+RIM-COD-URL-47: dropbox-45.cod
+RIM-COD-Size-47: 90088
+RIM-COD-SHA1-47: 0b 05 f4 ea 1b ca 36 7b 9a 63 f4 e0 a0 1c d1 18 2b 23 87 88
+RIM-COD-URL-48: dropbox-49.cod
+RIM-COD-Size-48: 19424
+RIM-COD-SHA1-48: a8 4b ce 17 b3 a9 d6 a6 bb 8a f4 8d 28 69 70 1a f9 d3 35 f1
+RIM-COD-URL-49: dropbox-48.cod
+RIM-COD-Size-49: 62588
+RIM-COD-SHA1-49: 81 a0 26 9f 3c a9 c6 e0 f8 a0 f1 29 40 84 b4 41 54 50 36 14
